@@ -58,7 +58,7 @@ public class FRCScout {
     		double hangfinal = hang * 50;
     		
     		 double totalscore = rotorfinal + ballhighfinal + hangfinal + ballslow;
-    		System.out.println("Team: " + number + " scored approximately: " + totalscore + " per match");
+    		System.out.println("Team: " + number + " scored approximately: " + totalscore + " per match. ");
     		
     		//compatibility testing
     		
